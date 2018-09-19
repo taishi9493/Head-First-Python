@@ -9,3 +9,4 @@ getcwd()
 
 print("Test")
 print(1)
+print("Yay")
